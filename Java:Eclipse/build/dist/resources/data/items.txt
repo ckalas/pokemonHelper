@@ -1,0 +1,550 @@
+X Sp. Def 6:Immensely raises Special Defense of a Pokémon in battle.
+Pink Scarf:Raises holder's Cute aspect in a Contest.
+Wiki Berry:Restores HP if it's low, but may cause confusion.
+Calcium:A nutritious drink for Pokémon. It raises the base Sp. Atk (Special Attack) stat of a single Pokémon.
+Ultra Ball:An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.
+Earth Plate:Increases power of Ground-type moves. Changes Arceus' type to Ground.
+Sea Incense:Increases the power of Water-type moves.
+Ampharosite:Enables Ampharos to Mega Evolve during battle.
+TM41:Teaches the move Softboiled/ThunderPunch/Torment.
+TM93:Teaches the move Wild Charge.
+TM24:Teaches the move Thunderbolt/DragonBreath.
+Rindo Berry:Weakens a supereffective Grass-type attack against the holding Pokémon.
+Reaper Cloth:A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon.
+Dawn Stone:A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes.
+HM05:Teaches the move Flash/Defog/Whirlpool/Waterfall.
+TM33:Teaches the move Ice Punch/Reflect.
+Charizardite X:Enables Charizard to Mega Evolve during battle.
+HM03:Teaches the move Surf.
+Magnet:Increases the power of Electric-type moves.
+Ice Heal:A spray-type medicine. It defrosts a Pokémon that has been frozen solid.
+Escape Rope:A long, durable rope. Use it to escape instantly from a cave or a dungeon.
+Haban Berry:Weakens a supereffective Dragon-type attack against the holding Pokémon.
+Alakazite:Enables Alakazam to Mega Evolve during battle.
+Muscle Band:Increases the power of Physical-category moves.
+Insect Plate:Increases power of Bug-type moves. Changes Arceus' type to Bug.
+Ether:It restores the PP of a Pokémon’s selected move by a maximum of 10 points.
+HM07:Teaches the move Waterfall.
+PP Up:It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon.
+TinyMushroom:A small and rare mushroom. It is sought after by collectors.
+Absolite:Enables Absol to Mega Evolve during battle.
+Premier Ball:A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.
+TM20:Teaches the move Rage/Endure/Safeguard.
+Electirizer:A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon.
+Dusk Ball:A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves.
+Water Gem:Increases the power of a Water-type move only once.
+Wave Incense:Increases the power of Water-type moves.
+Zoom Lens:Raises a move's accuracy if the holder moves after its target.
+Destiny Knot:A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, the foe does too.
+Pamtre Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+Grepa Berry:Using it on a Pokémon makes it more friendly, but it also lowers its base Sp. Def stat.
+Red Scarf:Raises holder's Cool aspect in a Contest.
+Heracronite:Enables Heracross to Mega Evolve during battle.
+TM11:Teaches the move BubbleBeam/Sunny Day.
+Leaf Stone:A peculiar stone that makes certain species of POKéMON evolve. It has a leaf pattern.
+TM72:Teaches the move Avalanche/Volt Switch.
+BrightPowder:Lowers the opponent’s accuracy.
+Shed Shell:A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.
+Electric Gem:Increases the power of an Electric-type move only once.
+TM14:Teaches the move Blizzard.
+DeepSeaScale:Increases Special Defense when held by Clamperl.
+Wise Glasses:Increases the power of Special-category moves.
+Mago Berry:Restores HP if it's low, but may cause confusion.
+Chill Drive:Changes Techno Blast to an Ice-type move when held by Genesect.
+Dragon Gem:Increases the power of a Dragon-type move only once.
+Gooey Mulch:A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+DeepSeaTooth:Increases Special Attack when held by Clamperl.
+X Accuracy:Raises Accuracy of a Pokémon in battle.
+TM42:Teaches the move Dream Eater/Facade.
+Fire Stone:A peculiar stone that makes certain species of POKéMON evolve. It is colored orange.
+Prism Scale:A mysterious scale that evolves certain Pokémon. It shines in rainbow colors.
+NeverMeltIce:Increases the power of Ice-type moves.
+Cover Fossil:A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its back.
+Salac Berry:Raises Speed when HP is low.
+TM61:Teaches the move Will-O-Wisp.
+TM18:Teaches the move Counter/Rain Dance.
+TM02:Teaches the move Razor Wind/Headbutt/Dragon Claw.
+Skull Fossil:A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head.
+Lagging Tail:An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.
+TM50:Teaches the move Substitute/Nightmare/Overheat.
+Timer Ball:A somewhat different BALL that becomes progressively better the more turns there are in a battle.
+Payapa Berry:Weakens a supereffective Psychic-type attack against the holding Pokémon.
+Sky Plate:Increases power of Flying-type moves. Changes Arceus' type to Flying.
+Roller Skates:Attaches roller skates to the bottom of your shoes, allowing you to glide quickly around and perform tricks.
+Qualot Berry:Using it on a Pokémon makes it more friendly, but it also lowers its base Defense stat.
+Dive Ball:A somewhat different Poké Ball that works especially well on Pokémon that live underwater.
+HM06:Teaches the move Whirlpool/Rock Smash/Dive.
+Persim Berry:If held by a Pokémon, it recovers from confusion.
+TM44:Teaches the move Rest.
+Spelon Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+Choice Specs:Raises Special Attack, but only one move can be used.
+TM53:Teaches the move Energy Ball.
+X Special 6:Immensely raises Special Attack of a Pokémon in battle.
+White Flute:A toy flute made from white glass. A maniac will buy it for a high price.
+Amulet Coin:An item to be held by a Pokémon. It doubles a battle’s prize money if the holding Pokémon joins in.
+TM34:Teaches the move Bide/Swagger/Shock Wave/Sludge Wave.
+Clever Wing:Increases Special Defense EVs by 1.
+Fighting Gem:Increases the power of a Fighting-type move only once.
+TM96:Teaches the move Nature Power.
+Oval Charm:An oval charm said to increase the chance of Pokémon Eggs being found at the Day Care.
+TM66:Teaches the move Payback.
+Permit:A permit that is needed to enter the Nature Preserve. Not many know about it.
+Park Ball:A special Poké Ball for the Pal Park.
+Manectite:Enables Manectric to Mega Evolve during battle.
+Blue Scarf:Raises holder's Beauty aspect in a Contest.
+Rocky Helmet:If the holder of this item takes damage, the attacker will also be damaged upon contact.
+Light Ball:An item to be held by PIKACHU. It is a puzzling orb that raises the Attack and Sp. Atk stat.
+HM08:Teaches the move Dive/Rock Climb.
+Flame Plate:Increases power of Fire-type moves. Changes Arceus' type to Fire.
+Relic Copper:A copper coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Ring Target:Moves that would otherwise have no effect will land on the Pokémon that holds it.
+Repel:An item that prevents weak wild Pokémon from appearing for 100 steps after its use.
+TM79:Teaches the move Dark Pulse/Frost Breath.
+Iron Plate:Increases power of Steel-type moves. Changes Arceus' type to Steel.
+Repeat Ball:A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught.
+X Attack 6:Immensely raises Attack of a Pokémon in battle.
+Petaya Berry:Raises Special Attack when HP is low.
+Hyper Potion:A spray-type medicine for wounds. It restores the HP of one Pokémon by 200 points.
+Pomeg Berry:Using it on a Pokémon makes it more friendly, but it also lowers its base HP.
+Nanab Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+TM74:Teaches the move Gyro Ball.
+Metronome:Increases the power of moves used consecutively.
+TM95:Teaches the move Snarl.
+TM48:Teaches the move Rock Slide/Fire Punch/Skill Swap/Round.
+Icy Rock:A Pokémon held item that extends the duration of the move Hail used by the holder.
+Heat Rock:A Pokémon held item that extends the duration of the move Sunny Day used by the holder.
+Pure Incense:An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.
+Shuca Berry:Weakens a supereffective Ground-type attack against the holding Pokémon.
+Power Lens:A Pokémon held item that promotes Sp. Atk gain on leveling, but reduces the Speed stat.
+Aerodactylite:Enables Aerodactyl to Mega Evolve during battle.
+Razor Claw:Increases critical-hit ratio.
+TM54:Teaches the move False Swipe.
+Full Heal:A spray-type medicine. It heals all the status problems of a single Pokémon.
+Pecha Berry:If held by a Pokémon, it recovers from poison.
+Chople Berry:Weakens a supereffective Fighting-type attack against the holding Pokémon.
+X Attack 3:Drastically raises Attack of a Pokémon in battle.
+Medichamite:Enables Medicham to Mega Evolve during battle.
+TM49:Teaches the move Tri Attack/Fury Cutter/Snatch/Echoed Voice.
+Max Repel:An item that prevents weak wild Pokémon from appearing for 250 steps after its use.
+Dusk Stone:A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be.
+Fire Gem:Increases the power of a Fire-type move only once.
+Tanga Berry:Weakens a supereffective Bug-type attack against the holding Pokémon.
+Odd Incense:Increases the power of Psychic-type moves.
+TM40:Teaches the move Skull Bash/Defense Curl/Aerial Ace.
+Elixir:It restores the PP of all the moves learned by the targeted Pokémon by 10 points each.
+Enigma Berry:If held by a Pokémon, it restores its HP if it is hit by any supereffective attack.
+Stable Mulch:A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+TM89:Teaches the move U-turn.
+EnergyPowder:A very bitter medicine powder. It restores the HP of one POKéMON by 50 points.
+TM65:Teaches the move Shadow Claw.
+Antidote:A spray-type medicine. It lifts the effect of poison from one Pokémon.
+Holo Caster:A device that allows users to receive and view hologram clips at any time. It is also used to chat with others.
+Poké Doll:A doll that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+Shock Drive:Changes Techno Blast to an Electric-type move when held by Genesect.
+TM55:Teaches the move Brine/Scald.
+Dire Hit 2:It can be used many times to raise the critical-hit ratio of one Pokémon. It wears off if the Pokémon is withdrawn.
+Mental Herb:An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.
+Wht Apricorn:A white Apricorn. It doesn’t smell like anything.
+Lemonade:A very sweet drink. It restores the HP of one POKéMON by 80 points.
+Reveal Glass:A looking glass that reveals the truth. It’s a mysterious glass that returns a Pokémon to its original shape.
+Up-Grade:A transparent device filled with all sorts of data. It was produced by Silph Co.
+Quick Claw:An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.
+TM46:Teaches the move Psywave/Thief.
+Scope Lens:Increases critical-hit ratio.
+Aspear Berry:If held by a Pokémon, it defrosts it.
+Sharp Beak:Increases the power of Flying-type moves.
+Nest Ball:A somewhat different Poké Ball that works especially well on weaker Pokémon in the wild.
+Quick Ball:A somewhat different Poké Ball that provides a better catch rate if it is used at the start of a wild encounter.
+Nomel Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+TM58:Teaches the move Endure/Sky Drop.
+TM35:Teaches the move Metronome/Sleep Talk/Flamethrower.
+X Defend 3:Drastically raises Defense of a Pokémon in battle.
+TM97:Teaches the move Dark Pulse.
+X Special 2:Sharply raises Special Attack of a Pokémon in battle.
+Choice Scarf:Raises Speed, but only one move can be used.
+Intriguing Stone:A rather curious stone that might appear to be valuable to some. It’s all in the eye of the beholder.
+Friend Ball:A Poké Ball that makes caught Pokémon more friendly.
+Charcoal:Increases the power of Fire-type moves.
+TM08:Teaches the move Body Slam/Rock Smash/Bulk Up.
+Soothe Bell:An item to be held by a Pokémon. It is a bell with a comforting chime that calms the holder and makes it friendly.
+X Defend 6:Immensely raises Defense of a Pokémon in battle.
+Rowap Berry:If held by a Pokémon and a special attack lands, the attacker also takes damage.
+Shell Bell:An item to be held by a Pokémon. The holder’s HP is restored a little every time it inflicts damage.
+Sprinklotad:A watering can shaped like a Lotad. It helps promote the healthy growth of any Berries planted in good, soft soil.
+TM86:Teaches the move Grass Knot.
+Silk Scarf:Increases the power of Normal-type moves.
+Ice Gem:Increases the power of an Ice-type move only once.
+Sport Ball:A special Poké Ball for the Bug-Catching Contest.
+X Special 3:Drastically raises Special Attack of a Pokémon in battle.
+Rock Gem:Increases the power of a Rock-type move only once.
+Abomasite:Enables Abomasnow to Mega Evolve during battle.
+Great Ball:A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball.
+Dropped Item:The Xtransceiver found at the Nimbasa City amusement park. It seems it belongs to a boy.
+X Special:Raises Special Attack of a Pokémon in battle.
+Aggronite:Enables Aggron to Mega Evolve during battle.
+TM29:Teaches the move Psychic.
+Gardevoirite:Enables Gardevoir to Mega Evolve during battle.
+Sweet Heart:Very sweet chocolate.   It restores the HP of one Pokémon by only 20 points.
+Lum Berry:If held by a Pokémon, it recovers from any status problem.
+Luxury Ball:A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.
+Heavy Ball:A Poké Ball for catching very heavy Pokémon.
+Looker Ticket:A ticket that was handmade by Looker. It’s decorated with a liberal amount of glittery paint.
+Charizardite Y:Enables Charizard to Mega Evolve during battle.
+Oran Berry:If held by a Pokémon,  it heals the user by just 10 HP.
+Comet Shard:A shard which fell to the ground when a comet approached. A maniac will buy it for a high price.
+Plume Fossil:A fossil of an ancient Pokémon that flew in the sky in ancient times. It appears to be part of its wing.
+Mawilite:Enables Mawile to Mega Evolve during battle.
+Metal Coat:Increases the power of Steel-type moves.
+Magost Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+Eviolite:A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def of a Pokémon that can still evolve.
+TM10:Teaches the move Double-Edge/Hidden Power.
+Metal Powder:Increases Defense when held by Ditto.
+Grass Gem:Increases the power of a Grass-type move only once.
+Normal Gem:Increases the power of a Normal-type move only once.
+Stardust:Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.
+TM09:Teaches the move Take Down/Psych Up/Bullet Seed/Venoshock.
+TM69:Teaches the move Rock Polish.
+Honor Of Kalos:A precious symbol that is awarded only to an individual who has done great things for the Kalos region.
+Magmarizer:A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.
+Guard Spec.:Prevents stat reduction for five turns.
+Kelpsy Berry:Using it on a Pokémon makes it more friendly, but it also lowers its base Attack stat.
+Poké Ball:A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.
+Gengarite:Enables Gengar to Mega Evolve during battle.
+Cheri Berry:If held by a Pokémon,  it recovers from paralysis.
+TM25:Teaches the move Thunder.
+Ganlon Berry:Raises Defense when HP is low.
+Relic Gold:A gold coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Iron Ball:A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.
+Potion:A spray-type medicine for wounds. It restores the HP of one Pokémon by just 20 points.
+TM45:Teaches the move Thunder Wave/Attract.
+TM23:Teaches the move Dragon Rage/Iron Tail/Smack Down.
+Shoal Salt:Pure salt that can be discovered deep inside the Shoal Cave. A maniac will buy it for a high price.
+Heal Ball:A remedial Poké Ball that restores the caught Pokémon’s HP and eliminates any status problem.
+TM52:Teaches the move Focus Blast.
+Parlyz Heal:A spray-type medicine. It eliminates paralysis from a single Pokémon.
+Aguav Berry:Restores HP if it's low, but may cause confusion.
+Pearl String:Very large pearls that sparkle in a pretty silver color.  A maniac will buy them for a high price.
+TM83:Teaches the move Natural Gift/Work Up/Infestation.
+Damp Rock:A Pokémon held item that extends the duration of the move Rain Dance used by the holder.
+Claw Fossil:A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a claw.
+Heal Powder:A very bitter medicine powder. It heals all the status problems of a single Pokémon.
+Rare Bone:A bone that is extremely valuable for Pokémon archeology. It can be sold for a high price to shops.
+HM01:Teaches the move Cut.
+TM12:Teaches the move Water Gun/Sweet Scent/Taunt.
+Relic Statue:A stone figure made in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Ylw Apricorn:A yellow Apricorn. It has an invigorating scent.
+X Accuracy 6:Immensely raises Accuracy of a Pokémon in battle.
+Dubious Disc:A transparent device overflowing with dubious data. Its producer is unknown.
+Kangaskhanite:Enables Kangaskhan to Mega Evolve during battle.
+TM92:Teaches the move Trick Room.
+TM91:Teaches the move Flash Cannon.
+Dragon Scale:A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.
+Draco Plate:Increases power of Dragon-type moves. Changes Arceus' type to Dragon.
+Quick Powder:Increases Speed when held by Ditto.
+Pass Orb:A mysterious orb containing the power of the Unova region, to be used when generating Pass Power.
+Kasib Berry:Weakens a supereffective Ghost-type attack against the holding Pokémon.
+TM56:Teaches the move Fling.
+Toxic Plate:Increases power of Poison-type moves. Changes Arceus' type to Poison.
+Venusaurite:Enables Venusaur to Mega Evolve during battle.
+Ability Urge:When used, it activates the Ability of an ally Pokémon.
+X Accuracy 3:Drastically raises Accuracy of a Pokémon in battle.
+Black Belt:Increases the power of Fighting-type moves.
+Reset Urge:When used, it restores any stat changes of an ally Pokémon.
+TM76:Teaches the move Stealth Rock/Struggle Bug.
+TM98:Teaches the move Power-Up Punch.
+Prof's Letter:A letter that Professor Sycamore wrote to your mother. A faint but pleasant perfume seems to cling to the paper.
+Red Flute:A toy flute made from red glass. A maniac will buy it for a high price.
+Dire Hit:Raises critical-hit ratio of a Pokémon in battle.
+Blue Shard:A small blue shard. It appears to be from some sort of implement made long ago.
+Durin Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+Helix Fossil:A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a seashell.
+TM06:Teaches the move Toxic.
+TM26:Teaches the move Earthquake.
+Steel Gem:Increases the power of a Steel-type move only once.
+Heart Scale:A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow.
+Poison Barb:Increases the power of Poison-type moves.
+TM30:Teaches the move Teleport/Shadow Ball.
+X Speed 3:Drastically raises Speed of a Pokémon in battle.
+Max Elixir:It fully restores the PP of all the moves learned by the targeted Pokémon.
+Casteliacone:Castelia City’s specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.
+Stick:Increases critical-hit ratio when held by Farfetch'd.
+Flame Orb:An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.
+Charti Berry:Weakens a supereffective Rock-type attack against the holding Pokémon.
+TM94:Teaches the move Rock Smash.
+TM01:Teaches the move Mega Punch/DynamicPunch/Focus Punch/Hone Claws.
+Flying Gem:Increases the power of a Flying-type move only once.
+Luck Incense:An item to be held by a Pokémon. It doubles a battle’s prize money if the holding Pokémon joins in.
+Yellow Shard:A small yellow shard. It appears to be from some sort of implement made long ago.
+Max Potion:A spray-type medicine for wounds. It completely restores the HP of a single Pokémon.
+Protector:A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon.
+TM07:Teaches the move Horn Drill/Zap Cannon/Hail.
+Toxic Orb:An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.
+Max Ether:It fully restores the PP of a single selected move that has been learned by the target Pokémon.
+X Defend 2:Sharply raises Defense of a Pokémon in battle.
+Yellow Scarf:Raises holder's Tough aspect in a Contest.
+Iron:A nutritious drink for Pokémon. It raises the base Defense stat of a single Pokémon.
+Mewtwonite X:Enables Mewtwo to Mega Evolve during battle.
+Psychic Gem:Increases the power of a Psychic-type move only once.
+Dark Gem:Increases the power of a Dark-type move only once.
+Leppa Berry:If held by a Pokémon, it restores a move’s PP by 10.
+Lansat Berry:Increases critical-hit ratio when HP is low.
+Miracle Seed:Increases the power of Grass-type moves.
+Poison Gem:Increases the power of a Poison-type move only once.
+Blu Apricorn:A blue Apricorn. It smells a bit like grass.
+X Speed:Raises Speed of a Pokémon in battle.
+BalmMushroom:A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.
+Berry Juice:A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.
+Starf Berry:Sharply raises a random stat when HP is low.
+HP Up:A nutritious drink for Pokémon. It raises the base HP of a single Pokémon.
+Big Mushroom:A large and rare mushroom. It is sought after by collectors.
+X Accuracy 2:Sharply raises Accuracy of a Pokémon in battle.
+Yellow Flute:A toy flute made from yellow glass. A maniac will buy it for a high price.
+Life Orb:Increases the power of moves, but loses HP each turn.
+Carbos:A nutritious drink for Pokémon. It raises the base Speed stat of a single Pokémon.
+Power Herb:A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.
+Muscle Wing:Increases Attack EVs by 1.
+Douse Drive:Changes Techno Blast to a Water-type move when held by Genesect.
+TM17:Teaches the move Submission/Protect.
+TM63:Teaches the move Embargo.
+Air Balloon:When held by a Pokémon, the Pokémon will float into the air. When the holder is attacked, this item will burst.
+Griseous Orb:Increases the power of Dragon- and Ghost-type moves when held by Giratina, and changes it to Origin Forme.
+X Speed 6:Immensely raises Speed of a Pokémon in battle.
+Gyaradosite:Enables Gyarados to Mega Evolve during battle.
+TM57:Teaches the move Charge Beam.
+Red Shard:A small red shard. It appears to be from some sort of implement made long ago.
+Blazikenite:Enables Blaziken to Mega Evolve during battle.
+Power Belt:A Pokémon held item that promotes Defense gain on leveling, but reduces the Speed stat.
+Spooky Plate:Increases power of Ghost-type moves. Changes Arceus' type to Ghost.
+TM38:Teaches the move Fire Blast.
+Big Pearl:A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.
+TM32:Teaches the move Double Team.
+Chesto Berry:If held by a Pokémon, it recovers from sleep.
+Cornn Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+TM70:Teaches the move Flash.
+TM43:Teaches the move Sky Attack/Detect/Secret Power/Flame Charge.
+TM84:Teaches the move Poison Jab.
+Rabuta Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+Full Incense:An item to be held by a Pokémon. It is an exotic-smelling incense that makes the holder bloated and slow moving.
+Smooth Rock:A Pokémon held item that extends the duration of the move Sandstorm used by the holder.
+Pinsirite:Enables Pinsir to Mega Evolve during battle.
+Root Fossil:A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a plant root.
+Custap Berry:Holder can move first when HP is low.
+Armor Fossil:A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.
+Master Ball:The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
+Focus Sash:An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.
+Banettite:Enables Banette to Mega Evolve during battle.
+Moon Stone:A peculiar stone that makes certain species of POKéMON evolve. It is as black as the night sky.
+Figy Berry:Restores HP if it's low, but may cause confusion.
+Elevator Key:A card key that activates the elevator in Lysandre Labs. It is emblazoned with Team Flare’s logo.
+Absorb Bulb:A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise.
+PP Max:It maximally raises the top PP of a selected move that has been learned by the target Pokémon.
+TM27:Teaches the move Fissure/Return.
+Dragon Fang:Increases the power of Dragon-type moves.
+TM78:Teaches the move Captivate/Bulldoze.
+Coba Berry:Weakens a supereffective Flying-type attack against the holding Pokémon.
+Meadow Plate:Increases power of Grass-type moves. Changes Arceus' type to Grass.
+TM28:Teaches the move Dig.
+TM85:Teaches the move Dream Eater.
+Black Flute:A toy flute made from black glass. A maniac will buy it for a high price.
+TM75:Teaches the move Swords Dance.
+Kebia Berry:Weakens a supereffective Poison-type attack against the holding Pokémon.
+Mystic Water:Increases the power of Water-type moves.
+Fresh Water:Water with a high mineral content. It restores the HP of one POKéMON by 50 points.
+Tamato Berry:Using it on a Pokémon makes it more friendly, but it also lowers its base Speed stat.
+Blk Apricorn:A black Apricorn It has an indescribable scent.
+Sacred Ash:It revives all fainted Pokémon. In doing so, it also fully restores their HP.
+Tyranitarite:Enables Tyranitar to Mega Evolve during battle.
+Resist Wing:Increases Defense EVs by 1.
+TM81:Teaches the move X-Scissor.
+Chilan Berry:Weakens a Normal-type attack against the Pokémon holding this berry.
+Babiri Berry:Weakens a supereffective Steel-type attack against the holding Pokémon.
+Plasma Card:A card key needed to enter the password inside the Plasma Frigate.
+TM22:Teaches the move SolarBeam.
+Cherish Ball:A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort.
+Lax Incense:An item to be held by a Pokémon. The tricky aroma of this incense may make attacks miss the holder.
+Occa Berry:Weakens a supereffective Fire-type attack against the holding Pokémon.
+Dome Fossil:A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a shell.
+Belue Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+Black Sludge:A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.
+TM88:Teaches the move Pluck/Sleep Talk.
+King's Rock:An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.
+Rock Incense:Increases the power of Rock-type moves.
+Watmel Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+Wacan Berry:Weakens a supereffective Electric-type attack against the holding Pokémon.
+Rawst Berry:If held by a Pokémon, it recovers from a burn.
+X Attack:Raises Attack of a Pokémon in battle.
+Nugget:A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.
+Colbur Berry:Weakens a supereffective Dark-type attack against the holding Pokémon.
+Love Ball:Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.
+Cleanse Tag:An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.
+TM03:Teaches the move Swords Dance/Curse/Water Pulse/Psyshock.
+TM90:Teaches the move Substitute.
+TM36:Teaches the move Selfdestruct/Sludge Bomb.
+Swift Wing:Increases Speed EVs by 1.
+TM19:Teaches the move Seismic Toss/Giga Drain/Telekinesis/Roost.
+Yache Berry:Weakens a supereffective Ice-type attack against the holding Pokémon.
+Pinap Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+TMV Pass:A commuter pass that allows the holder to ride the TMV between Lumiose City and Kiloude City at any time.
+Relic Vase:A vase made in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Dream Ball:A special Poké Ball that appears out of nowhere in a bag at the Entree Forest. It can catch any Pokémon.
+TM04:Teaches the move Whirlwind/Rollout/Calm Mind.
+Old Amber:A piece of amber that contains the genetic material of an ancient Pokémon. It is clear with a reddish tint.
+X Sp. Def 2:Sharply raises Special Defense of a Pokémon in battle.
+TwistedSpoon:Increases the power of Psychic-type moves.
+Garchompite:Enables Garchomp to Mega Evolve during battle.
+Green Scarf:Raises holder's Smart aspect in a Contest.
+Pnk Apricorn:A pink Apricorn. It has a nice, sweet scent.
+BlackGlasses:Increases the power of Dark-type moves.
+Grip Claw:A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap.
+Cell Battery:A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise.
+Pixie Plate:Increases power of Fairy-type moves. Changes Arceus' type to Fairy.
+Net Ball:A somewhat different Poké Ball that works especially well on Water- and Bug-type Pokémon.
+Level Ball:A Poké Ball for catching Pokémon that are a lower level than your own.
+Awakening:A spray-type medicine. It awakens a Pokémon from the clutches of sleep.
+Burn Drive:Changes Techno Blast to a Fire-type move when held by Genesect.
+Lustrous Orb:Increases the power of Dragon-​ and Water-type moves when held by Palkia.
+Macho Brace:An item to be held by a Pokémon. It is a stiff and heavy brace that promotes strong growth but lowers Speed.
+DNA Splicers:A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning.
+TM15:Teaches the move Hyper Beam.
+Super Repel:An item that prevents weak wild Pokémon from appearing for 200 steps after its use.
+Star Piece:A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.
+Lure Ball:A Poké Ball for catching Pokémon hooked by a Rod when fishing.
+TM67:Teaches the move Recycle/Retaliate.
+Mewtwonite Y:Enables Mewtwo to Mega Evolve during battle.
+Leftovers:An item to be held by a Pokémon. The holder’s HP is gradually restored during battle.
+TM87:Teaches the move Swagger.
+White Herb:An item to be held by a POKéMON. It restores any lowered stat in battle. It can be used only once.
+Shoal Shell:A pretty seashell that can be found  deep inside the Shoal Cave. A maniac will buy it for a high price.
+TM13:Teaches the move Snore/Ice Beam.
+Micle Berry:Increases a move's accuracy when HP is low.
+Relic Band:A bracelet made in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Choice Band:Raises Attack, but only one move can be used.
+Everstone:An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.
+Moomoo Milk:Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points.
+Float Stone:A very light stone. It reduces the weight of a Pokémon when held.
+Safari Ball:A special Poké Ball that is used only in the Great Marsh. It is decorated in a camouflage pattern.
+Shiny Charm:A shiny charm said to increase the chance of finding a Shiny Pokémon in the wild.
+TM47:Teaches the move Explosion/Steel Wing/Low Sweep.
+Red Card:A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle.
+Wepear Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+Item Drop:When used, it causes an ally Pokémon to drop a held item.
+Item Urge:When used, it causes an ally Pokémon to use its held item.
+Iapapa Berry:Restores HP if it's low, but may cause confusion.
+Super Potion:A spray-type medicine for wounds. It restores the HP of one Pokémon by 50 points.
+Expert Belt:Increases the power of super-effective moves.
+Soul Dew:Increases both Special Attack and Special Defense when held by Latios or Latias.
+TM82:Teaches the move Sleep Talk/Dragon Tail.
+SilverPowder:Increases the power of Bug-type moves.
+Lava Cookie:LAVARIDGE TOWN’s local specialty. It heals all the status problems of one POKéMON.
+Wide Lens:Increases the accuracy of moves.
+Eject Button:If the holder is hit by an attack, it will switch with another Pokémon in your party.
+Relic Crown:A crown made in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Binding Band:A band that increases the power of binding moves when held.
+TM16:Teaches the move Pay Day/Icy Wind/Light Screen.
+Smoke Ball:An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.
+Blastoisinite:Enables Blastoise to Mega Evolve during battle.
+Ghost Gem:Increases the power of a Ghost-type move only once.
+X Attack 2:Sharply raises Attack of a Pokémon in battle.
+HM02:Teaches the move Fly.
+Thick Club:Increases Attack when held by Cubone or Marowak.
+Shiny Stone:A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light.
+Sun Stone:A peculiar stone that makes certain species of POKéMON evolve. It is as red as the sun.
+TM60:Teaches the move Drain Punch/Quash.
+Lucky Egg:An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.
+Lucarionite:Enables Lucario to Mega Evolve during battle.
+Apicot Berry:Raises Special Defense when HP is low.
+Razz Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+Ground Gem:Increases the power of a Ground-type move only once.
+Revive:A medicine that revives a fainted Pokémon. It restores half the Pokémon’s maximum HP.
+Scizorite:Enables Scizor to Mega Evolve during battle.
+Power Band:A Pokémon held item that promotes Sp. Def gain on leveling, but reduces the Speed stat.
+Health Wing:Increases HP EVs by 1.
+Honey:A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees.
+Water Stone:A peculiar stone that makes certain species of Pokémon evolve. It is a clear, light blue.
+Poké Toy:An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+Power Plant Pass:This pass serves as an ID card for gaining access to the power plant that lies along Route 13.
+Blue Flute:A toy flute made from blue glass. A maniac will buy it for a high price.
+TM100:Teaches the move Confide.
+Focus Band:An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.
+Jaboca Berry:If held by a Pokémon and a physical attack lands, the attacker also takes damage.
+Pretty Wing:Though this feather is beautiful, it’s just a regular feather and has no effect on Pokémon.
+TM59:Teaches the move Dragon Pulse/Incinerate.
+Green Shard:A small green shard. It appears to be from some sort of implement made long ago.
+TM99:Teaches the move Dazzling Gleam.
+TM71:Teaches the move Stone Edge.
+Big Nugget:A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price.
+Genius Wing:Increases Special Attack EVs by 1.
+Growth Mulch:A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+TM21:Teaches the move Mega Drain/Frustration.
+TM77:Teaches the move Psych Up.
+Zap Plate:Increases power of Electric-type moves. Changes Arceus' type to Electric.
+Power Bracer:A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat.
+Protein:A nutritious drink for Pokémon. It raises the base Attack stat of a single Pokémon.
+Full Restore:A medicine that fully restores the HP and heals any status problems of a single Pokémon.
+Rose Incense:Increases the power of Grass-type moves.
+Houndoominite:Enables Houndoom to Mega Evolve during battle.
+Icicle Plate:Increases power of Ice-type moves. Changes Arceus' type to Ice.
+Soda Pop:A fizzy soda drink. It restores the HP of one POKéMON by 60 points.
+Colress Machine:A special device that wrings out the potential of Pokémon. It is an imperfect prototype.
+TM68:Teaches the move Giga Impact.
+TM05:Teaches the move Mega Kick/Roar.
+Bluk Berry:A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+Medal Box:A box-shaped machine that stores Medals and Medal information.
+Power Weight:A Pokémon held item that promotes HP gain on leveling, but reduces the Speed stat.
+Energy Root:A very bitter root. It restores the HP of one POKéMON by 200 points.
+TM39:Teaches the move Swift/Rock Tomb.
+Grn Apricorn:A green Apricorn. It has a mysterious, aromatic scent.
+Damp Mulch:A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+Grubby Hanky:A handkerchief dropped by a regular at Café Warehouse. It smells faintly like a Pokémon.
+Max Revive:A medicine that revives a fainted Pokémon. It fully restores the Pokémon’s HP.
+TM62:Teaches the move Silver Wind/Acrobatics.
+Fast Ball:A Poké Ball that makes it easier to catch Pokémon which are quick to run away.
+Oval Stone:A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.
+Passho Berry:Weakens a supereffective Water-type attack against the holding Pokémon.
+Bug Gem:Increases the power of a Bug-type move only once.
+Mind Plate:Increases power of Psychic-type moves. Changes Arceus' type to Psychic.
+TM37:Teaches the move Egg Bomb/Sandstorm.
+Power Anklet:A Pokémon held item that promotes Speed gain on leveling, but reduces the Speed stat.
+Hondew Berry:Using it on a Pokémon makes it more friendly, but it also lowers its base Sp. Atk stat.
+TM31:Teaches the move Mimic/Mud-Slap/Brick Break.
+Red Apricorn:A red Apricorn. It assails your nostrils.
+Exp. Share:An item to be held by a Pokémon. The holder gets a share of a battle’s Exp. Points without battling.
+Burn Heal:A spray-type medicine. It heals a single Pokémon that is suffering from a burn.
+TM64:Teaches the move Explosion.
+Odd Keystone:A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.
+Lucky Punch:Increases critical-hit ratio when held by Chansey.
+Adamant Orb:Increases the power of Dragon-​ and Steel-type moves when held by Dialga.
+HM04:Teaches the move Strength.
+Stone Plate:Increases power of Rock-type moves. Changes Arceus' type to Rock.
+Dire Hit 3:It can be used many times to greatly raise a Pokémon’s critical-hit ratio. It wears off if the Pokémon is withdrawn.
+X Speed 2:Sharply raises Speed of a Pokémon in battle.
+Liechi Berry:Raises Attack when HP is low.
+Dread Plate:Increases power of Dark-type moves. Changes Arceus' type to Dark.
+TM80:Teaches the move Rock Slide.
+Fist Plate:Increases power of Fighting-type moves. Changes Arceus' type to Fighting.
+Sitrus Berry:If held by a Pokémon, it heals the user’s HP a little.
+Lens Case:A rather chic-looking case for carrying contact lenses.
+Pearl:A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.
+X Defend:Raises Defense of a Pokémon in battle.
+Sticky Barb:A held item that damages the holder on every turn. It may latch on to foes and allies that touch the holder.
+Fluffy Tail:An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+Spell Tag:Increases the power of Ghost-type moves.
+Adventure Rules:This book contains all the points a new Trainer needs to know on a journey. It was handmade by a kind friend.
+X Sp. Def:Raises Special Defense of a Pokémon in battle.
+TM73:Teaches the move Thunder Wave.
+X Sp. Def 3:Drastically raises Special Defense of a Pokémon in battle.
+Soft Sand:Increases the power of Ground-type moves.
+Old Gateau:Old Chateau’s hidden specialty. It heals all the status problems of a single Pokémon.
+Relic Silver:A silver coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Zinc:A nutritious drink for Pokémon. It raises the base Sp. Def (Special Defense) stat of a single Pokémon.
+Light Clay:A Pokémon held item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.
+Fairy Gem:Increases the power of a Fairy-type move only once.
+TM51:Teaches the move Roost/Ally Switch/Steel Wing.
+Moon Ball:A Poké Ball for catching Pokémon that evolve using the Moon Stone.
+Hard Stone:Increases the power of Rock-type moves.
+Rare Candy:A candy that is packed with energy. It raises the level of a single Pokémon by one.
+Splash Plate:Increases power of Water-type moves. Changes Arceus' type to Water.
+Revival Herb:A very bitter medicinal herb. It revives a fainted Pokémon, fully restoring its HP.
+Big Root:Recovers more HP from HP-stealing moves.
+Razor Fang:An item to be held by a Pokémon. It may make foes and allies flinch when the holder inflicts damage.
+Thunderstone:A peculiar stone that makes certain species of POKéMON evolve. It has a thunderbolt pattern.

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.BorderPane?>
+
+<AnchorPane prefHeight="700.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ck.pokemon.view.PokemonViewController">
+    <children>
+       <SplitPane layoutX="163.0" layoutY="52.0" prefHeight="300.0" prefWidth="500.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <items>
+           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="198.0" prefWidth="369.0" styleClass="background" stylesheets="@style.css" SplitPane.resizableWithParent="false">
+               <children>
+                  <TextField fx:id="searchField" layoutX="124.0" layoutY="14.0" onAction="#onEnter" AnchorPane.topAnchor="14.0" />
+                  <Text fx:id="fourHundredText" fill="WHITE" layoutX="18.0" layoutY="169.0" lineSpacing="6.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="52.0" AnchorPane.leftAnchor="18.0">
+                     <font>
+                        <Font name="Futura Medium Italic" size="14.0" />
+                     </font></Text>
+                  <Text fx:id="twoHundredText" fill="WHITE" layoutX="71.0" layoutY="169.0" lineSpacing="6.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="52.0">
+                     <font>
+                        <Font name="Futura Medium Italic" size="14.0" />
+                     </font></Text>
+                  <Text fx:id="fiftyText" fill="WHITE" layoutX="193.0" layoutY="169.0" lineSpacing="6.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="52.0">
+                     <font>
+                        <Font name="Futura Medium Italic" size="14.0" />
+                     </font></Text>
+                  <Text fx:id="oneHundredText" fill="WHITE" layoutX="130.0" layoutY="169.0" lineSpacing="6.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="52.0">
+                     <font>
+                        <Font name="Futura Medium Italic" size="14.0" />
+                     </font></Text>
+                  <Text fx:id="twentyFiveText" fill="#fffdfd" layoutX="261.0" layoutY="169.0" lineSpacing="6.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="52.0">
+                     <font>
+                        <Font name="Futura Medium Italic" size="14.0" />
+                     </font></Text>
+                  <Text fx:id="zeroText" fill="WHITE" layoutX="329.0" layoutY="169.0" lineSpacing="6.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="52.0" AnchorPane.rightAnchor="17.0">
+                     <font>
+                        <Font name="Futura Medium Italic" size="14.0" />
+                     </font></Text>
+                  <Text fx:id="infoText" fill="WHITE" layoutX="28.0" layoutY="614.0" lineSpacing="7.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="330.0">
+                     <font>
+                        <Font name="Futura Medium" size="13.0" />
+                     </font></Text>
+                  <Text fx:id="typeLabel" fill="WHITE" layoutX="5.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="387.345703125">
+                     <font>
+                        <Font name="System Italic" size="34.0" />
+                     </font></Text>
+                  <Text fx:id="infoLabel" fill="WHITE" layoutX="59.0" layoutY="586.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="269.345703125">
+                     <font>
+                        <Font size="34.0" />
+                     </font></Text>
+                  <Text fx:id="pokeType" fill="WHITE" layoutX="96.0" layoutY="113.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="194.345703125">
+                     <font>
+                        <Font name="System Italic" size="19.0" />
+                     </font>
+                  </Text>
+                  <Text fill="RED" layoutX="43.0" layoutY="145.0" strokeType="OUTSIDE" strokeWidth="0.0" text="x4" AnchorPane.leftAnchor="30.0">
+                     <font>
+                        <Font size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fill="#ff9000" layoutX="83.0" layoutY="144.0" strokeType="OUTSIDE" strokeWidth="0.0" text="x2">
+                     <font>
+                        <Font size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fill="YELLOW" layoutX="142.0" layoutY="144.0" strokeType="OUTSIDE" strokeWidth="0.0" text="x1">
+                     <font>
+                        <Font size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fill="LIME" layoutX="194.0" layoutY="144.0" strokeType="OUTSIDE" strokeWidth="0.0" text="x0.5">
+                     <font>
+                        <Font size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fill="#0073ff" layoutX="259.0" layoutY="144.0" strokeType="OUTSIDE" strokeWidth="0.0" text="x0.25">
+                     <font>
+                        <Font size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fill="#6b44fc" layoutX="329.0" layoutY="143.0" strokeType="OUTSIDE" strokeWidth="0.0" text="x0" AnchorPane.rightAnchor="30.0">
+                     <font>
+                        <Font size="22.0" />
+                     </font>
+                  </Text>
+               </children></AnchorPane>
+         </items>
+       </SplitPane>
+    </children>
+ </AnchorPane>
